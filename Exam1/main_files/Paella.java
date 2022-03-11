@@ -29,7 +29,7 @@ public class Paella extends AppCompatActivity {
                 // Crear Objeto tipo Intent
                 Intent cambio = new Intent(getApplication(), MainActivity.class);
 
-                /* Ejecutar el Cambio de Pantalla */
+                /* Ejecutar el Cambio de Pantalla */ 
                 startActivity(cambio);
             }
         });
