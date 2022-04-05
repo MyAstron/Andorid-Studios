@@ -2,6 +2,7 @@
 This Repository has a Document's for MyAstron when he use Android Studios
 
 # Resul for [![Twitter](https://img.shields.io/badge/.t2U2-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MyAstron/Andorid-Studios/blob/main/t2U2)
+<img src="https://i.ibb.co/bBSLsSy/advertencia.gif" height="20"> _*Note_ The Program Doesn't have all the Configuration!
 
 | Index | Datos |
 |-|-|
