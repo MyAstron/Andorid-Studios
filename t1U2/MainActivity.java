@@ -1,7 +1,3 @@
-# <img src="https://i.ibb.co/bQyL8SZ/imagen-removebg-preview.png" height="30"> Programacion de los Botones
-#### Esta Configuracion tine la Explicacion y Codificacion de un Boton
-
-```java
 package com.example.guia1u2;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -36,4 +32,3 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-```
