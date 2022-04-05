@@ -1,6 +1,3 @@
-# <img src="https://i.ibb.co/z6khMSR/pixil-frame-0-51.png" height="30"> Declaracion de los Colores
-#### La Carpeta de este Archivo va en `./res /values`
-```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
@@ -20,4 +17,3 @@
     <color name="rojo_fuego">#D32213</color>
 
 </resources>
-```
