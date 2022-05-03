@@ -1,4 +1,4 @@
-## <img src="https://i.ibb.co/z6khMSR/pixil-frame-0-51.png" height="30"> Configuracion del `activity_main`
+## <img src="https://i.ibb.co/z6khMSR/pixil-frame-0-51.png" height="30"> Diseño del  `activity_main`
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
