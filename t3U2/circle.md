@@ -1,4 +1,4 @@
-## <img src="https://i.ibb.co/VSvC7pw/support-emoji-3.png" height="30"> Configuracion del `activity_main`
+## <img src="https://i.ibb.co/VSvC7pw/support-emoji-3.png" height="30"> Configuracion del  `activity_main`
 ```java
 package com.example.guia3u2;
 
