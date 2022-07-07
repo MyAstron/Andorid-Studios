@@ -17,8 +17,6 @@ public class Calculo_3 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_calculo3);
-        View Back = this.getWindow().getDecorView();
-        Back.setBackgroundResource(R.color.jamon);
 
         Retornar = (Button) findViewById(R.id.Retorno);
 
