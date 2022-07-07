@@ -1,4 +1,3 @@
-```java
 package com.example.guia4u2;
 
 /* Importaciones */
@@ -46,4 +45,3 @@ public class Activity extends AppCompatActivity {
 
     }
 }
-```
