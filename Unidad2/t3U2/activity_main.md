@@ -1,5 +1,3 @@
-## <img src="https://i.ibb.co/z6khMSR/pixil-frame-0-51.png" height="30"> Diseño del  `MainActivity`
-```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -80,4 +78,3 @@
         app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-```
