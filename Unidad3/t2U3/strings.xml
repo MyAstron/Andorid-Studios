@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guia #2, Unidad 3</string>
+    <string-array name="Calculadora">
+        <item> Selecciona una Opcion</item>
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicacion</item>
+        <item>Division</item>
+    </string-array>
+</resources>
