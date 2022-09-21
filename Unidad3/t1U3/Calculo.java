@@ -1,5 +1,3 @@
-## Configuracion de la convercion: -- **`Pies`(ft.)** a **`Metros`(m)** 
-```java
 package com.example.guia1u3;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -45,4 +43,3 @@ public class Calculo extends AppCompatActivity {
         });
     }
 }
-```
