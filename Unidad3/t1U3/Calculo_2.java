@@ -1,5 +1,3 @@
-## Configuracion de la convercion: -- **`Metros`(m)** a **`Pulgadas`(in)**
-```java
 package com.example.guia1u3;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -46,4 +44,3 @@ public class Calculo_2 extends AppCompatActivity {
         });
     }
 }
-```
