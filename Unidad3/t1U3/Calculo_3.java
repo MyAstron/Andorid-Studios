@@ -1,5 +1,3 @@
-## Configuracion de la convercion: -- **`Pulgadas`(in)** a **`Pies`(ft.)**
-```java
 package com.example.guia1u3;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -46,4 +44,3 @@ public class Calculo_3 extends AppCompatActivity {
         });
     }
 }
-```
