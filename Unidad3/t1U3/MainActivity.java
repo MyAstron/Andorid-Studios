@@ -1,5 +1,3 @@
-## Configuracion del Panel Principal
-```java
 package com.example.guia1u3;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -44,4 +42,3 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
-```
