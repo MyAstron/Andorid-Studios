@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guia2U4</string>
+    <string-array name="Paises">
+        <item>Guatemala</item>
+        <item>El Salvador</item>
+        <item>Honduras</item>
+        <item>Nicaragua</item>
+        <item>Costa Rica</item>
+        <item>Panama</item>
+    </string-array>
+</resources>
